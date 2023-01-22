@@ -11,7 +11,7 @@
 
 ### Welcome to my github page! 
 
-I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm a driven and determined person to learn, i do have my flaws. but im great at communicating for group projects as an example.
+I'm currently studying Computer Science from The Bit Academy. I'm a driven and determined person to learn, i do have my flaws. but im great at communicating for group projects as an example.
 
 I love to work with people around me and help them as much as I can!
 
