@@ -36,8 +36,7 @@ I love to work with people around me and help them as much as I can!
 <ul>
 	    <li><b>Laptop: </b> ASUS VivoBook</li>
   	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Terminal: </b>The stock MacOS Terminal</li>
-	    <li><b>Code Editor:</b> VSCode w/ Github Copilot</li>
+	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b>Linkedin</li>
 	</ul>	
 </details>
