@@ -21,9 +21,8 @@ I love to work with people around me and help them as much as I can!
 ### Summary:
 - 💻 <b>Currently</b> in my second year as a student in the Bit-Academy
 - 📝 <b>I have </b> a strong interest in Web Developement
-- 🌱 <b>Love</b> learning about Computers
-- 🌟 <b>Main languages</b>: Javascript and PHP
-- ✍️ <b> Hobby's</b> are going to the gym and sometimes playing games
+- 🌟 <b>Main languages</b>: Javascript
+- ✍️ <b> Hobby's</b> are gym and gaming
 
 ###  <b>Favorite games</b>:
 - Valorant
